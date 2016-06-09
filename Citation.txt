@@ -1,0 +1,3 @@
+For citation please refer to our following paper:
+
+Malehmir, R., and D. R. Schmitt, ARTc: Anisotropic Reflectivity and Transmissivity Calculator, 2016, Computer and Geoscience, Elsevier (Submission in progress)
