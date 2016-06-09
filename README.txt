@@ -6,4 +6,4 @@ This package has been tested on MATLAB® 2015b. Should you have any problem plea
 
 doi:10.1016/j.cageo.2016.05.008
 
-For more information please contact malehmir@ualberta.ca or mrmalehmir@gmail.com
+For more information please contact malehmir@ualberta.ca 
