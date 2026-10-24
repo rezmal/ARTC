@@ -7,7 +7,9 @@ reflection/transmission amplitude coefficients. It handles any symmetry class.
 
 ## Browser version (recommended)
 
-**Quick start:** download [`ARTC.html`](ARTC.html) and open it in any modern browser. It is a
+**Use it online:** https://rezmal.github.io/ARTC/
+
+**Or offline:** download [`ARTC.html`](ARTC.html) and open it in any modern browser. It is a
 single file that runs offline. No MATLAB and no installation are needed.
 
 - Enter the 21 stiffnesses C<sub>ij</sub> (GPa) and the density (g/cm³) of each medium, or fill
