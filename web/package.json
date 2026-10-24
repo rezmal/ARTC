@@ -1,0 +1,29 @@
+{
+  "name": "artc-web",
+  "private": true,
+  "version": "2.0.0",
+  "description": "ARTc: Anisotropic Reflectivity and Transmissivity Calculator (browser edition)",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "build:standalone": "tsc --noEmit && vite build --mode standalone && node scripts/copy-standalone.mjs",
+    "preview": "vite preview",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  },
+  "devDependencies": {
+    "@types/react": "18.3.12",
+    "@types/react-dom": "18.3.1",
+    "@vitejs/plugin-react": "4.7.0",
+    "typescript": "5.9.3",
+    "vite": "6.4.5",
+    "vite-plugin-singlefile": "2.3.4",
+    "vitest": "3.2.7"
+  },
+  "license": "Apache-2.0"
+}
